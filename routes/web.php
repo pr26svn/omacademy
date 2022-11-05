@@ -27,5 +27,4 @@ Route::get(
 	'/post/1/', function () {
 	    return 'один пост';
     }
-); 
-
+);
