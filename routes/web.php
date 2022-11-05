@@ -13,7 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-<?php 
 		Route::get('/', function () { 
 					return 'главная страница сайта'; 
 		}); 
